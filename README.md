@@ -10,7 +10,7 @@ Jack of all trades and bored of none.
 - 🛠️ Languages & tools: Python, PyTorch, Java, WebGL, FastAPI  
 
 📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/anushka-tawte/) · [Portfolio]([https://surelyanushka.github.io/Portfolio/])
+[LinkedIn](https://www.linkedin.com/in/anushka-tawte/) · [Portfolio](https://surelyanushka.github.io/Portfolio/)
 
 ---
 
