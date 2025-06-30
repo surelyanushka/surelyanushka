@@ -22,4 +22,4 @@ Love building projects with a wow factor ✨
 
 ### 📊 GitHub Stats
 
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=surelyanushka&show_icons=true&theme=radical)
